@@ -1,0 +1,31 @@
+table,
+tr,
+td,
+th {
+  color: black;
+  border: 1px solid blue;
+}
+
+th {
+  width: 45%;
+}
+
+.blank {
+  width: 1000px;
+}
+
+.cl {
+  background-color: rgb(210, 210, 210);
+}
+
+.computer {
+  text-align: center;
+  width: 41.4%;
+  margin: 2px 0 0;
+  padding: 0;
+}
+
+.Multimedia {
+  width: fit-content;
+  background-color: rgb(210, 210, 210);
+}

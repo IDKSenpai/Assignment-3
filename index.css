@@ -1,0 +1,33 @@
+.con {
+  display: block;
+  background-color: rgb(0, 0, 133);
+}
+
+.container {
+  background-color: blue;
+  height: 50px;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+.container_text {
+  color: white;
+  font-size: 30px;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+}
+
+.Kh_lan,
+.En_lan {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.title {
+  background-color: rgb(0, 0, 133);
+  color: white;
+  font-size: 25px;
+}

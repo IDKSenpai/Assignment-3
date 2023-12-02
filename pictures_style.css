@@ -1,0 +1,15 @@
+.first_pic {
+  height: 250px;
+  margin-top: 20px;
+}
+
+.second_pic {
+  width: 400px;
+  height: 350px;
+  object-fit: cover;
+}
+
+.icon {
+  object-fit: cover;
+  border-radius: round;
+}
